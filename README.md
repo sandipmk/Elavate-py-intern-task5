@@ -5,11 +5,8 @@
 It calculates total revenue and quantity sold by city and product, as well as revenue trends over time.
 The analysis results are shown through clear, client-friendly charts that are both displayed and saved as PNG files for reporting**.
 
----
 **Objective**:
   - Analyze sales data using pandas
-
----
 
 **Key Concepts**:
   - Pandas
