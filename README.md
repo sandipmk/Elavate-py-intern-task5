@@ -24,25 +24,25 @@ The analysis results are shown through clear, client-friendly charts that are bo
 
 2. Prepare the data:
 
-  - Convert purchase dates to datetime format.
+    - Convert purchase dates to datetime format.
 
-  - Calculate Revenue = Quantity × Price.
+    - Calculate Revenue = Quantity × Price.
 
 3. Analyze the data:
 
-  - Total revenue by city.
+    - Total revenue by city.
 
-  - Total revenue by product.
+    - Total revenue by product.
 
-  - Total quantity sold by product.
+    - Total quantity sold by product.
 
-  - Revenue trend over time.
+    - Revenue trend over time.
 
 4. Visualize the results:
 
-  - Create colorful, easy-to-read bar charts with values shown on top.
+    - Create colorful, easy-to-read bar charts with values shown on top.
 
-  - Create a line chart for revenue over time.
+    - Create a line chart for revenue over time.
 
 5. Save and display all charts for client use
 
