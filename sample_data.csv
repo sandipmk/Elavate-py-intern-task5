@@ -1,0 +1,51 @@
+ID,Name,City,Product,Quantity,Price,Purchase_Date
+1,Ian,Houston,Laptop,7,188.12,2025-02-01
+2,Grace,San Diego,Laptop,3,752.24,2024-11-30
+3,Ian,San Diego,Keyboard,6,1553.3,2024-11-15
+4,Jane,Jacksonville,Printer,2,445.58,2025-05-18
+5,David,Phoenix,Keyboard,10,1983.93,2025-04-09
+6,Jane,Chicago,Phone,5,651.73,2024-10-20
+7,Eva,Phoenix,Camera,6,1412.39,2024-09-26
+8,Alice,New York,Keyboard,4,702.08,2025-08-02
+9,Grace,Los Angeles,Printer,7,1404.14,2024-08-28
+10,Grace,Chicago,Mouse,2,554.74,2025-06-05
+11,Grace,Jacksonville,Phone,2,1898.19,2025-05-12
+12,Bob,Los Angeles,Tablet,8,1682.11,2025-05-16
+13,Ian,Austin,Printer,10,1489.06,2025-07-03
+14,Hannah,Phoenix,Mouse,10,572.41,2024-12-13
+15,Ian,New York,Camera,1,99.79,2025-01-20
+16,Grace,San Jose,Keyboard,2,648.63,2024-10-06
+17,Charlie,New York,Camera,7,1744.69,2025-02-06
+18,Grace,Los Angeles,Phone,7,1221.53,2024-09-14
+19,Ian,Chicago,Keyboard,9,120.88,2025-04-07
+20,David,Houston,Printer,10,625.96,2025-06-02
+21,Eva,San Diego,Camera,5,243.74,2025-06-07
+22,Frank,Phoenix,Mouse,10,1423.99,2024-08-28
+23,Ian,San Diego,Laptop,6,709.25,2025-06-12
+24,Ian,San Jose,Keyboard,8,222.04,2024-09-03
+25,Jane,San Diego,Laptop,8,729.88,2025-01-27
+26,Bob,New York,Printer,4,1290.32,2025-07-07
+27,Ian,Los Angeles,Monitor,4,1983.77,2025-06-19
+28,Bob,Houston,Monitor,4,1287.36,2025-05-26
+29,Alice,Jacksonville,Laptop,4,1140.4,2024-12-17
+30,Ian,Houston,Mouse,1,513.86,2025-04-18
+31,David,Chicago,Printer,9,804.42,2025-06-19
+32,Frank,Austin,Phone,1,1904.71,2024-12-07
+33,David,Chicago,Keyboard,1,108.8,2025-05-25
+34,Grace,Chicago,Keyboard,8,924.6,2025-01-29
+35,David,Jacksonville,Phone,8,1443.01,2025-05-31
+36,Frank,Austin,Keyboard,8,846.31,2024-12-14
+37,Frank,Houston,Laptop,6,106.16,2025-02-26
+38,Alice,Jacksonville,Keyboard,8,896.74,2025-03-04
+39,Grace,Los Angeles,Phone,1,95.9,2025-08-06
+40,Frank,San Diego,Keyboard,4,1148.24,2024-11-11
+41,Ian,San Diego,Phone,7,1090.13,2024-10-10
+42,David,Phoenix,Printer,4,1935.24,2024-11-10
+43,Eva,San Diego,Tablet,4,1116.96,2025-01-18
+44,Bob,San Jose,Mouse,8,1418.83,2025-03-24
+45,Frank,New York,Phone,7,208.37,2025-02-02
+46,Grace,Chicago,Laptop,10,242.06,2025-01-13
+47,Frank,Dallas,Camera,10,119.58,2025-05-03
+48,Bob,Los Angeles,Laptop,4,1271.62,2024-12-26
+49,Eva,San Jose,Laptop,10,1006.24,2025-03-23
+50,Eva,Jacksonville,Camera,3,1891.41,2025-08-11
